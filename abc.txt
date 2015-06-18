@@ -3,4 +3,8 @@ def
 abcd
 defg
 
+<<<<<<< HEAD
 fixed defect 101
+=======
+fixed defect 102
+>>>>>>> Defect102
